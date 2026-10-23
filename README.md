@@ -13,6 +13,17 @@ I enjoy experimenting with models, evaluating their performance, and building re
 
 ---
 
+## 🎓 Education
+
+**Ton Duc Thang University (TDTU)**
+
+- **Degree:** Bachelor's Degree in Software Engineering
+- **Expected Graduation:** 2027
+- **Relevant Coursework:** Data Structures & Algorithms, Object-Oriented Programming, Database Systems, Machine Learning
+- **Language:** Vietnamese, English (APTIS General B2)
+
+---
+
 ## 🚀 Featured AI Projects
 
 ### 1. English–Vietnamese Machine Translation
