@@ -1,6 +1,6 @@
-# Hi, I'm Your Name 👋
+# Hi, I'm Huy 👋
 
-### AI Engineer | Machine Learning | NLP & LLMs
+### AI Engineer | Machine Learning | NLP & LLMs | Software Engineering
 
 I'm an aspiring AI Engineer interested in building practical AI solutions, with a particular focus on Natural Language Processing, Machine Learning, and Large Language Models.
 
