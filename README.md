@@ -26,18 +26,23 @@ Developing an experimental benchmark for evaluating English-to-Vietnamese transl
 
 **Focus:** Machine Translation · NLP · LLM Evaluation
 
-*Project in progress — repository link will be added when available.*
+*Project in progress.*
 
 ### 2. RAG Chatbot
 
-Exploring Retrieval-Augmented Generation (RAG) to build document-based question-answering applications.
+Exploring Retrieval-Augmented Generation (RAG) for document-based question answering.
 
 - Document ingestion and preprocessing
 - Text chunking and embedding-based retrieval
 - Vector search with ChromaDB
 - LLM-powered question answering
 
-**Tech stack:** Python · Streamlit · LangChain · ChromaDB
+**Tech stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B4BDB?style=flat-square)
 
 [View Repository](https://github.com/JiaHui2005/rag-chatbot)
 
@@ -50,13 +55,48 @@ A machine learning project focused on predicting customer subscription to a bank
 - Target class imbalance analysis
 - Model development and evaluation
 
-**Tech stack:** Python · Pandas · NumPy · Scikit-learn · XGBoost
+**Tech stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189F70?style=flat-square)
 
 [View Repository](https://github.com/JiaHui2005/xgboost-bank-marketing)
 
 ---
 
-## 💻 Featured Software Engineering
+## 🧠 AI & Machine Learning
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Machine Learning & Data Science
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189F70?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### NLP & LLM Applications
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B4BDB?style=flat-square)
+
+**Areas of interest:** Text classification · Word embeddings · RAG · Machine Translation · LLM evaluation
+
+---
+
+
+## 💻 Software Engineering
 
 ### Hometic — Smart Home E-commerce Platform
 
@@ -72,39 +112,11 @@ A full-stack e-commerce project focused on home appliances and smart home produc
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 [Explore Hometic Repository](https://github.com/JiaHui2005/hometic)
-
----
-
-## 🧠 AI & Machine Learning
-
-**Machine Learning:** Classification, model evaluation, XGBoost  
-**Deep Learning:** PyTorch, neural networks  
-**Natural Language Processing:** Text processing, word embeddings, sentiment analysis  
-**LLM Applications:** RAG, embeddings, retrieval-based question answering  
-**Evaluation:** BLEU, chrF, COMET
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### AI & Data Science
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189F70?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ---
 
@@ -119,9 +131,8 @@ A full-stack e-commerce project focused on home appliances and smart home produc
 ## 📫 Connect With Me
 
 - **GitHub:** [JiaHui2005](https://github.com/JiaHui2005)
+- **Email:** **huyvg0306@gmail.com**
 
 ---
 
-<p align="left">
-  <i>Learn continuously. Build thoughtfully. Improve through experimentation.</i>
-</p>
+*Learn continuously. Build thoughtfully. Improve through experimentation.*
