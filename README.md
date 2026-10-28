@@ -7,7 +7,7 @@ I enjoy experimenting with models, evaluating their performance, and building re
 
 🌐 **Portfolio:** [View My Portfolio](https://portfolio-poaj020nq-vogiahuypro9-5380s-projects.vercel.app/)
 
-- 🔭 **Currently exploring:** 🔭 Currently exploring: English–Vietnamese Machine Translation, Agent Verification Mechanisms, and Agent Memory Systems
+- 🔭 **Currently exploring:** English–Vietnamese Machine Translation, Agent Verification Mechanisms, and Agent Memory Systems
 - 🧠 **Interests:** NLP, Machine Learning, LLM applications
 - 🛠️ **Core tools:** Python, PyTorch, Scikit-learn
 - 🎯 **Goal:** Build reliable, practical, and well-evaluated AI systems
