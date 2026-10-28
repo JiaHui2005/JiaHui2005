@@ -5,7 +5,7 @@
 I'm a Software Engineering student passionate about Artificial Intelligence, Machine Learning, and building practical AI-powered solutions.
 I enjoy experimenting with models, evaluating their performance, and building reproducible AI pipelines.
 
-🌐 **Portfolio:** [View My Portfolio](https://portfolio-poaj020nq-vogiahuypro9-5380s-projects.vercel.app/)
+🌐 **Portfolio:** [View My Portfolio](https://portfolio-rosy-seven-9rvpods3vd.vercel.app/)
 
 - 🔭 **Currently exploring:** English–Vietnamese Machine Translation, Agent Verification Mechanisms, and Agent Memory Systems
 - 🧠 **Interests:** NLP, Machine Learning, LLM applications
